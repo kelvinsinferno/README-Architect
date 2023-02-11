@@ -1,15 +1,15 @@
 
 
-##README Architect
+## README Architect
 ---
 Click this link the view the video walkthrough:
 <a href="https://youtu.be/beLQNmXm0yU">https://youtu.be/beLQNmXm0yU</a>
 
-##Description
+## Description
 ---
 This command-line application uses input from the user to generate a professional README.md file.
 
-##Instalation
+## Instalation
 ---
 Run the following command to install dependencies:
 ```md
