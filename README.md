@@ -1,5 +1,3 @@
-
-
 ## README Architect
 
 Click this link the view the video walkthrough:
